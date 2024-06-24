@@ -1,6 +1,5 @@
 .idea
 tmp/
-resources/
 
 # Autosave files
 *.asv
